@@ -1,0 +1,86 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+*{
+  margin: 0;
+  padding: 0;
+}
+h1{
+  background-color: blue;
+  color: white;
+  font-size: 2rem;
+}
+.one{
+  background-color: brown;
+  color: rgb(123, 255, 0);
+  padding: 2rem;
+  margin: 2rem;
+  border: 0.45rem groove rgb(37, 73, 172);
+  font-weight: 100;
+}
+.two{
+  background-color: aqua;
+  color: rgb(225, 85, 9);
+  padding: 2rem;
+  margin: 2rem;
+  border: 0.45rem double rgb(214, 21, 21);
+}
+.three{
+  background-color: blueviolet;
+  color: rgb(0, 255, 123);
+  padding: 2rem;
+  margin: 2rem;
+  border: 0.45rem solid yellow;
+}
+.four{
+  background-color: red;
+  color: blue;
+  padding: 2rem;
+  margin: 2rem;
+  border: 0.45rem dotted;
+}
+.five{
+  background-color: yellow;
+  color: black;
+  padding: 2rem;
+  margin: 2rem;
+  border: 0.45rem dashed red;
+}
+ul{
+  font-size: 1.4rem;
+  color: blue;
+
+}
+ul a{
+  
+  text-decoration: none;
+  padding: 1.2rem;
+  margin: 1.2rem;
+  color: green;
+}
+span{
+  display: inline-block;
+  width: 100px;
+  height: 100px;
+  padding: 5px;
+  border: 1px solid blue;
+  background-color: cadetblue;
+}
+.navlink{
+  display:inline-block;
+  font-size: 1rem;
+  width: 100px;
+  height: 100px;
+  padding: 5px;
+  border: 1px solid blue;
+  background-color: cadetblue;
+}
+.navlink2{
+  display: inline-block;
+  width: 100px;
+  height: 100px;
+  padding: 5px;
+  border: 1px solid blue;
+  background-color: cadetblue;
+
+}
+

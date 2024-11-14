@@ -1,0 +1,58 @@
+* {margin:0}
+.header{
+  background-color: black;
+  height:90px;
+  color: white;
+  text-align: left;
+  padding-top: 30px;
+  padding-left: 150px;
+  font-size: large;
+
+}
+.coffe{
+  background:linear-gradient(rgba(249,155,63,0.9),rgba(233,210,50,0.5)),url("/images/hero-bcg.jpg");
+  height: 50rem;
+  background-size: cover;
+
+}
+.sectioncontent{
+  display: inline-block;
+  width: 500px;
+  padding-left: 150px;
+  color: white;
+
+}
+h2{
+  text-align: center;
+  padding-top: 50px;
+  padding-bottom: 20px;
+}
+.exploremoresection{
+  
+  text-align: center;
+  
+  width:150px;
+  margin-left: 155px;
+  margin-top: 20px;
+  font-weight:150px ;
+  
+}
+button {
+  background-color:transparent;
+  border: 2px solid white;
+
+  color: white;
+  padding: 5px 5px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  transition-duration: 0.4s;}
+
+button:hover {
+    background-color: white;
+    color: black;
+    border: 2px solid #4CAF50;
+}
